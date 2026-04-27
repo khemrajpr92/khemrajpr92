@@ -1,130 +1,240 @@
 <div align="center">
-  
-# 👋 Hi, I'm Khemraj Prajapati
 
-### 🚀 High-Performance Computing Systems Engineer | Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khemraj%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Full-Stack&descAlignY=58&descSize=18&descColor=a8d8ea" />
 
-<img src="https://komarev.com/ghpvc/?username=khemrajpr92&label=Profile%20views&color=0e75b6&style=flat" alt="khemrajpr92" />
+<br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/khemrajpr92?logo=twitter&style=for-the-badge)](https://twitter.com/khemrajpr92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhemraj-prajapati)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khemrajpr92)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=HPC+Systems+Engineer+%40+IISc+SERC;GPU+Cluster+%7C+Slurm+%7C+Pacemaker+%7C+Ansible;Cloud+%7C+AWS+%7C+GCP+%7C+OCI+%7C+Docker;React.js+%7C+TypeScript+%7C+Node.js;Oracle+Cloud+Infrastructure+Certified)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://linkedin.com/in/khemrajprajapati">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:khemrajpr92@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/khemrajpr92">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://twitter.com/khemrajpr92">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=khemrajpr92&label=Profile+Views&color=38BDF8&style=flat-square" />
 
 </div>
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
-A passionate and results-driven **High-Performance Computing Systems Engineer** with expertise in GPU cluster administration, infrastructure automation, and full-stack web development. Currently working at **SERC, IISc Bengaluru**, managing large-scale HPC systems supporting cutting-edge research.
+```yaml
+name        : Khemraj Prajapati
+location    : Bengaluru, Karnataka, India
+role        : HPC Systems Engineer @ IISc SERC
+focus       : HPC Infrastructure · Cloud & DevOps · SRE · Full-Stack
+certifications:
+  - Oracle Cloud Infrastructure — DevOps Professional
+  - Oracle Database @ AWS — Certified Architect Professional
+  - Oracle Cloud Infrastructure — Foundations Associate
+contact     : khemrajpr92@gmail.com
+```
 
-- 💻 **Specialization:** HPC Systems, Linux Administration, Infrastructure Automation, Cloud Engineering
-- 🌍 **Based in:** Bengaluru, Karnataka, India
-- 📧 **Email:** [khemrajpr92@gmail.com](mailto:khemrajpr92@gmail.com)
+> Building reliable, scalable infrastructure for large-scale research computing at one of India's premier institutions.
+> Bridging **HPC systems engineering** with **cloud-native DevOps practices** and **site reliability principles**.
 
 ---
 
-## 🏆 Professional Experience
+## 💼 Professional Experience
 
-### **High-Performance Computing (HPC) Systems Engineer**
-**SERC (Supercomputer Education and Research Centre), IISc, Bengaluru**  
+<table>
+<tr>
+<td width="60px" align="center">🏛️</td>
+<td>
+
+**High-Performance Computing (HPC) Systems Engineer**
+**SERC, Indian Institute of Science (IISc) · Bengaluru**
 *Aug 2025 – Present*
 
-**Key Responsibilities & Achievements:**
+- Administered large-scale **GPU clusters** with **Slurm** and **PBS/Torque** job schedulers supporting **500+ concurrent research workloads**
+- Configured **Pacemaker** and **Corosync** for HA cluster failover, achieving **zero unplanned downtime**
+- Automated provisioning and configuration management for **50+ compute nodes** using **Ansible** and **Python** — **60% reduction** in manual effort
+- Managed **NFS** and **RAID** storage infrastructure with **99.9% availability** and automated disaster recovery
+- Deployed **Prometheus** + **Grafana** observability stack monitoring **15+ infrastructure metrics**
+- Developed **React.js/TypeScript** self-service web portal for internal and external IISc researchers
 
-- 🖥️ **GPU Cluster Administration:** Administer large-scale GPU cluster with Slurm and PBS job schedulers supporting 200+ concurrent research workloads with zero scheduling conflicts
-- 🔄 **High Availability:** Configured Pacemaker and Corosync for HA cluster failover, ensuring zero unplanned downtime during critical operations
-- 🤖 **Infrastructure Automation:** Automated end-to-end node provisioning, OS patching, and configuration management for 50+ compute nodes using Ansible, Bash, and Python (60% reduction in manual deployment effort)
-- 💾 **Storage Management:** Managed NFS and RAID infrastructure with 99.9% availability, automated backup, and disaster recovery workflows
-- 📊 **Monitoring & Optimization:** Resolved MPI, CUDA, and GPU driver conflicts; monitored systems with Prometheus for optimal performance
-- 🌐 **Portal Development:** Developed React.js + TypeScript web portal for internal researchers and external users to manage HPC research workloads
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
+
+### ⚡ HPC & Parallel Computing
+![Slurm](https://img.shields.io/badge/Slurm-FF6B6B?style=flat-square&logoColor=white)
+![PBS/Torque](https://img.shields.io/badge/PBS%2FTorque-4ECDC4?style=flat-square)
+![MPI](https://img.shields.io/badge/MPI-45B7D1?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![GPU Cluster](https://img.shields.io/badge/GPU%20Cluster-FF6600?style=flat-square)
+![Pacemaker](https://img.shields.io/badge/Pacemaker-CC0000?style=flat-square)
+![Corosync](https://img.shields.io/badge/Corosync-8B0000?style=flat-square)
+![HA Failover](https://img.shields.io/badge/HA%20Failover-2E86AB?style=flat-square)
+
+### 🐧 Linux & System Administration
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 🔄 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=black)
+
+### 🗄️ Storage & Networking
+![NFS](https://img.shields.io/badge/NFS-FFA500?style=flat-square)
+![RAID](https://img.shields.io/badge/RAID-0071C5?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-009688?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-512BD4?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-4EAA25?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall-CC0000?style=flat-square)
+
+### 🌐 Full-Stack Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🤖 ML & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 [AI Image Generation Platform](https://github.com/khemrajpr92/Describe-Art)
+> Text-to-image generation using **Stable Diffusion XL** and **Stability AI API**
+
+**Stack:** Next.js · TypeScript · TailwindCSS · Node.js · Firebase · Zod
+
+- Full-stack platform with Firebase auth & secure session management
+- Zod schema validation + React Hook Form
+- Sub-3-second image generation response times
+
+</td>
+<td width="50%">
+
+### 🏥 [Healthcare Symptom Chatbot](https://github.com/khemrajpr92/Healthcare-Chatbot)
+> ML-powered symptom analysis using **Decision Tree** & **SVM classifiers**
+
+**Stack:** Python · Scikit-learn · Pandas · NumPy · pyttsx3
+
+- Cross-validated disease prediction from user-input symptoms
+- NLP-based symptom parsing with text-to-speech output
+- CSV-driven disease database with health recommendations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3244379A050966F1B0B509820978E26224C68F3265460B813CF487FFCA2C7A00">
+<img src="https://img.shields.io/badge/OCI%20DevOps-Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+<br/><sub><b>Oracle Cloud Infrastructure<br/>DevOps Professional</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B33B4E5556554CFE071A53E88D44D533C4736AE97F4D3D08466B502EBC41FA1">
+<img src="https://img.shields.io/badge/Oracle%20DB%20%40%20AWS-Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+<br/><sub><b>Oracle Database @ AWS<br/>Certified Architect Professional</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A630D131518AB5162BE2E98CAE1DBBDCAE1F0040DD432EA9B2335C307EBC27EE">
+<img src="https://img.shields.io/badge/OCI-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+<br/><sub><b>Oracle Cloud Infrastructure<br/>Foundations Associate</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### **HPC & Parallel Computing**
-![Slurm](https://img.shields.io/badge/Slurm-FF6B6B?style=for-the-badge)
-![PBS](https://img.shields.io/badge/PBS-4ECDC4?style=for-the-badge)
-![MPI](https://img.shields.io/badge/MPI-45B7D1?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge)
-![GPU Computing](https://img.shields.io/badge/GPU%20Computing-26C281?style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khemrajpr92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemrajpr92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-### **Linux & System Administration**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/>
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
-
-### **Frontend & Backend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge)
-
-### **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![NFS](https://img.shields.io/badge/NFS-FFA500?style=for-the-badge)
-![RAID](https://img.shields.io/badge/RAID-0071C5?style=for-the-badge)
-
-### **Monitoring & Performance**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khemrajpr92&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
 ---
 
-## 🎯 Skills Summary
+## 🎯 What I'm Working On
 
-| Category | Skills |
-|----------|--------|
-| **HPC & Parallel Computing** | GPU Cluster Management, Slurm, PBS, MPI, CUDA, Pacemaker, Corosync, HA Failover, Job Scheduling |
-| **Linux & Systems** | RHEL, CentOS, Ubuntu, Bash Scripting, Ansible, System Provisioning, Patch Management, Performance Tuning |
-| **Storage & Networking** | NFS, RAID, Backup & Recovery, HA Storage Clusters, TCP/IP, DNS, SSH |
-| **Cloud & DevOps** | AWS, GCP, Oracle Cloud, Docker, CI/CD (GitHub Actions, Jenkins) |
-| **Programming** | Python, Bash, C/C++, SQL, JavaScript, TypeScript |
-| **Web Frameworks** | React.js, Node.js, Tailwind CSS, Express.js |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
+```
+🔭 Currently  →  Managing GPU HPC clusters & research computing infra at IISc SERC
+☁️  Exploring  →  AWS Solutions Architect · Kubernetes (CKA) · Terraform IaC
+🔐 Learning   →  SRE practices · SLO/SLI · Chaos Engineering · Platform Engineering
+🌱 Building   →  Cloud-native DevOps projects · Open-source HPC tooling
+📫 Reach me   →  khemrajpr92@gmail.com
+```
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Open To
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=khemrajpr92&show_icons=true&locale=en&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrajpr92&show_icons=true&locale=en&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khemrajpr92&theme=dark)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khemrajpr92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhemraj-prajapati)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajapati__prajapati)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemrajpr92@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khemrajpr92)
+![HPC](https://img.shields.io/badge/HPC%20Systems%20Engineering-FF6B6B?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud%20Engineering-FF9900?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps%20Engineering-2496ED?style=for-the-badge)
+![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-34A853?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform%20Engineering-7B42BC?style=for-the-badge)
 
 </div>
 
@@ -132,8 +242,6 @@ A passionate and results-driven **High-Performance Computing Systems Engineer** 
 
 <div align="center">
 
-### ⭐ Feel free to explore my repositories and don't hesitate to reach out!
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
 </div>
