@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khemraj%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Full-Stack&descAlignY=58&descSize=18&descColor=a8d8ea" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khemraj%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=HPC%20Systems%20Engineer"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=HPC+Systems+Engineer+%40+IISc+SERC;GPU+Cluster+%7C+Slurm+%7C+Pacemaker+%7C+Ansible;Cloud+%7C+AWS+%7C+GCP+%7C+OCI+%7C+Docker;React.js+%7C+TypeScript+%7C+Node.js;Oracle+Cloud+Infrastructure+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=HPC+Systems+Engineer+%40+IISc+SERC;GPU+Cluster+Admin;DevOps+%26+Cloud+Engineer;Full-Stack+Developer)](https://github.com/khemrajpr92)
 
 <br/>
 
