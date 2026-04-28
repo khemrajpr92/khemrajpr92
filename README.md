@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Full-Stack&descAlignY=55&descSize=17&descColor=38BDF8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20DevOps&descAlignY=51&descAlign=50"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC+Bengaluru;⚡+GPU+Cluster+%7C+Slurm+%7C+Pacemaker+%7C+Corosync;☁️+AWS+%7C+GCP+%7C+Oracle+Cloud+Infrastructure;🔄+DevOps+%7C+CI%2FCD+%7C+Ansible+%7C+Docker;🌐+React.js+%7C+TypeScript+%7C+Node.js;🏅+Oracle+Cloud+Infrastructure+Certified)](https://github.com/khemrajpr92)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC;☁️+Cloud+DevOps+Architect;🚀+Scaling+GPU+Clusters+with+Automation)](https://github.com/khemrajpr92)
 
 <br/>
 
@@ -288,6 +288,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=38BDF8&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=38BDF8&fontAlignY=75"/>
 
 </div>
