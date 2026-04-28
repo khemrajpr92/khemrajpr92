@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20DevOps&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36"/>
 
-<br/>
+<br/><br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC;☁️+Cloud+DevOps+Architect;🚀+Scaling+GPU+Clusters+with+Automation)](https://github.com/khemrajpr92)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC)](https://github.com/khemrajpr92)
 
 <br/>
 
@@ -79,7 +79,7 @@
 <br/>
 
 > *"Bridging HPC systems engineering*
-> *with cloud-native DevOps practices"*
+> *with platform engineering & cloud infrastructure"*
 
 </td>
 </tr>
@@ -262,7 +262,7 @@
 🔭  Managing    →  GPU HPC clusters & research computing infra at IISc SERC
 ☁️   Exploring   →  AWS Solutions Architect · Kubernetes CKA · Terraform IaC
 🔐  Learning    →  SRE · SLO/SLI · Chaos Engineering · Platform Engineering
-🌱  Building    →  Cloud-native DevOps projects · Open-source HPC tooling
+🌱  Building    →  Cloud-native infrastructure projects · Open-source HPC tooling
 📫  Reach me    →  khemrajpr92@gmail.com
 ```
 
@@ -274,7 +274,6 @@
 
 ![HPC](https://img.shields.io/badge/HPC%20Systems%20Engineering-FF6B6B?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud%20Engineering-FF9900?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps%20Engineering-2496ED?style=for-the-badge)
 ![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-34A853?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform%20Engineering-7B42BC?style=for-the-badge)
 
@@ -288,6 +287,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=38BDF8&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=38BDF8&fontAlignY=60"/>
 
 </div>
