@@ -260,7 +260,7 @@
 
 ```
 🔭  Managing    →  GPU HPC clusters & research computing infra at IISc SERC
-☁️   Exploring   →  AWS Solutions Architect · Kubernetes CKA · Terraform IaC
+☁️  Exploring   →  AWS Solutions Architect · Kubernetes CKA · Terraform IaC
 🔐  Learning    →  SRE · SLO/SLI · Chaos Engineering · Platform Engineering
 🌱  Building    →  Cloud-native infrastructure projects · Open-source HPC tooling
 📫  Reach me    →  khemrajpr92@gmail.com
