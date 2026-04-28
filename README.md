@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khemraj%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=HPC%20Systems%20Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Full-Stack&descAlignY=55&descSize=17&descColor=38BDF8&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=HPC+Systems+Engineer+%40+IISc+SERC;GPU+Cluster+Admin;DevOps+%26+Cloud+Engineer;Full-Stack+Developer)](https://github.com/khemrajpr92)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC+Bengaluru;⚡+GPU+Cluster+%7C+Slurm+%7C+Pacemaker+%7C+Corosync;☁️+AWS+%7C+GCP+%7C+Oracle+Cloud+Infrastructure;🔄+DevOps+%7C+CI%2FCD+%7C+Ansible+%7C+Docker;🌐+React.js+%7C+TypeScript+%7C+Node.js;🏅+Oracle+Cloud+Infrastructure+Certified)](https://github.com/khemrajpr92)
 
 <br/>
 
 <a href="https://linkedin.com/in/khemrajprajapati">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="mailto:khemrajpr92@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://github.com/khemrajpr92">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://twitter.com/khemrajpr92">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
@@ -24,6 +24,8 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=khemrajpr92&label=Profile+Views&color=38BDF8&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/khemrajpr92?label=Followers&style=flat-square&color=38BDF8"/>
 
 </div>
 
@@ -31,20 +33,57 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```yaml
-name        : Khemraj Prajapati
-location    : Bengaluru, Karnataka, India
-role        : HPC Systems Engineer @ IISc SERC
-focus       : HPC Infrastructure · Cloud & DevOps · SRE · Full-Stack
-certifications:
-  - Oracle Cloud Infrastructure — DevOps Professional
-  - Oracle Database @ AWS — Certified Architect Professional
-  - Oracle Cloud Infrastructure — Foundations Associate
-contact     : khemrajpr92@gmail.com
+👤 Name      : Khemraj Prajapati
+📍 Location  : Bengaluru, Karnataka, India
+🏛️  Current   : HPC Systems Engineer @ IISc SERC
+🎓 Education : B.Tech CSE — Nalanda College of Engg
+               CGPA: 7.97 / 10
+
+🎯 Domains:
+   ├── HPC Infrastructure & Cluster Admin
+   ├── Cloud Engineering (AWS · GCP · OCI)
+   ├── DevOps & CI/CD Automation
+   ├── Site Reliability Engineering (SRE)
+   └── Full-Stack Development
+
+🏅 Certifications:
+   ├── OCI DevOps Professional        [Oracle]
+   ├── Oracle DB @ AWS Architect Pro  [Oracle]
+   └── OCI Foundations Associate      [Oracle]
+
+📫 Contact  : khemrajpr92@gmail.com
 ```
 
-> Building reliable, scalable infrastructure for large-scale research computing at one of India's premier institutions.
-> Bridging **HPC systems engineering** with **cloud-native DevOps practices** and **site reliability principles**.
+</td>
+<td width="45%" align="center">
+
+### 🚀 What I Do
+
+<br/>
+
+🖥️ &nbsp;**Administer** large-scale GPU clusters at IISc<br/>supporting **500+ concurrent** research workloads
+
+⚙️ &nbsp;**Automate** infrastructure with Ansible & Python<br/>achieving **60% reduction** in manual effort
+
+🔒 &nbsp;**Configure** Pacemaker/Corosync for HA failover<br/>maintaining **zero unplanned downtime**
+
+📊 &nbsp;**Monitor** systems with Prometheus & Grafana<br/>tracking **15+ node health metrics** in real-time
+
+🌐 &nbsp;**Build** full-stack portals with React.js & TypeScript<br/>for internal & external IISc researchers
+
+<br/>
+
+> *"Bridging HPC systems engineering*
+> *with cloud-native DevOps practices"*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,19 +91,22 @@ contact     : khemrajpr92@gmail.com
 
 <table>
 <tr>
-<td width="60px" align="center">🏛️</td>
+<td width="8%" align="center">🏛️</td>
 <td>
 
-**High-Performance Computing (HPC) Systems Engineer**
-**SERC, Indian Institute of Science (IISc) · Bengaluru**
-*Aug 2025 – Present*
+### High-Performance Computing (HPC) Systems Engineer
+**SERC · Indian Institute of Science (IISc) · Bengaluru** &nbsp;|&nbsp; *Aug 2025 – Present*
 
-- Administered large-scale **GPU clusters** with **Slurm** and **PBS/Torque** job schedulers supporting **500+ concurrent research workloads**
-- Configured **Pacemaker** and **Corosync** for HA cluster failover, achieving **zero unplanned downtime**
-- Automated provisioning and configuration management for **50+ compute nodes** using **Ansible** and **Python** — **60% reduction** in manual effort
-- Managed **NFS** and **RAID** storage infrastructure with **99.9% availability** and automated disaster recovery
-- Deployed **Prometheus** + **Grafana** observability stack monitoring **15+ infrastructure metrics**
-- Developed **React.js/TypeScript** self-service web portal for internal and external IISc researchers
+<br/>
+
+| Area | Achievement |
+|------|-------------|
+| 🖥️ **GPU Cluster Admin** | Slurm & PBS/Torque schedulers · **500+ concurrent** research workloads · zero scheduling conflicts |
+| 🔄 **High Availability** | Pacemaker & Corosync HA failover · **zero unplanned downtime** across compute nodes |
+| 🤖 **Automation** | Ansible + Python provisioning for **50+ nodes** · **60% reduction** in manual deployment effort |
+| 💾 **Storage** | NFS & RAID infrastructure · **99.9% availability** · automated backup & disaster recovery |
+| 📊 **Observability** | Prometheus + Grafana stack · **15+ metrics** tracked · proactive fault detection |
+| 🌐 **Web Portal** | React.js + TypeScript self-service portal for IISc internal & external researchers |
 
 </td>
 </tr>
@@ -214,14 +256,14 @@ contact     : khemrajpr92@gmail.com
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Currently
 
 ```
-🔭 Currently  →  Managing GPU HPC clusters & research computing infra at IISc SERC
-☁️  Exploring  →  AWS Solutions Architect · Kubernetes (CKA) · Terraform IaC
-🔐 Learning   →  SRE practices · SLO/SLI · Chaos Engineering · Platform Engineering
-🌱 Building   →  Cloud-native DevOps projects · Open-source HPC tooling
-📫 Reach me   →  khemrajpr92@gmail.com
+🔭  Managing    →  GPU HPC clusters & research computing infra at IISc SERC
+☁️   Exploring   →  AWS Solutions Architect · Kubernetes CKA · Terraform IaC
+🔐  Learning    →  SRE · SLO/SLI · Chaos Engineering · Platform Engineering
+🌱  Building    →  Cloud-native DevOps projects · Open-source HPC tooling
+📫  Reach me    →  khemrajpr92@gmail.com
 ```
 
 ---
@@ -242,6 +284,10 @@ contact     : khemrajpr92@gmail.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<sub>💡 <i>Open to full-time roles, collaborations, and open-source contributions</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=38BDF8&fontAlignY=65&animation=fadeIn"/>
 
 </div>
