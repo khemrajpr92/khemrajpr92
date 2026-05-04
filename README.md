@@ -1,31 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36"/>
-
-<br/><br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC)](https://github.com/khemrajpr92)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:2c5364&height=220&section=header&text=Khemraj%20Prajapati&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=HPC%20Systems%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=55&descColor=38BDF8"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/khemrajprajapati">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:khemrajpr92@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/khemrajpr92">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;
-<a href="https://twitter.com/khemrajpr92">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC;⚙️+Automating+Infrastructure+at+Scale;☁️+Cloud+Native+%26+DevOps+Enthusiast;🚀+Building+High-Performance+Systems;🔐+SRE+%26+Platform+Engineering+Focus" alt="Typing SVG" />
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=khemrajpr92&label=Profile+Views&color=38BDF8&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/khemrajpr92?label=Followers&style=flat-square&color=38BDF8"/>
+<p>
+  <a href="https://linkedin.com/in/khemrajprajapati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=%20"/>
+  </a>&nbsp;
+  <a href="mailto:khemrajpr92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=%20"/>
+  </a>&nbsp;
+  <a href="https://github.com/khemrajpr92" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=%20"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/khemrajpr92" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=%20"/>
+  </a>
+</p>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=khemrajpr92&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/khemrajpr92?label=Followers&style=flat-square&color=38BDF8" alt="Followers" />
+</p>
+
+<p>
+  <code>🌐 Bridging Systems Engineering with Cloud Infrastructure & Platform Engineering</code>
+</p>
 
 </div>
 
@@ -219,19 +229,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3244379A050966F1B0B509820978E26224C68F3265460B813CF487FFCA2C7A00">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3244379A050966F1B0B509820978E26224C68F3265460B813CF487FFCA2C7A00" target="_blank">
 <img src="https://img.shields.io/badge/OCI%20DevOps-Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </a>
 <br/><sub><b>Oracle Cloud Infrastructure<br/>DevOps Professional</b></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B33B4E5556554CFE071A53E88D44D533C4736AE97F4D3D08466B502EBC41FA1">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B33B4E5556554CFE071A53E88D44D533C4736AE97F4D3D08466B502EBC41FA1" target="_blank">
 <img src="https://img.shields.io/badge/Oracle%20DB%20%40%20AWS-Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 <br/><sub><b>Oracle Database @ AWS<br/>Certified Architect Professional</b></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A630D131518AB5162BE2E98CAE1DBBDCAE1F0040DD432EA9B2335C307EBC27EE">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A630D131518AB5162BE2E98CAE1DBBDCAE1F0040DD432EA9B2335C307EBC27EE" target="_blank">
 <img src="https://img.shields.io/badge/OCI-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </a>
 <br/><sub><b>Oracle Cloud Infrastructure<br/>Foundations Associate</b></sub>
@@ -283,10 +293,16 @@
 
 <div align="center">
 
-<sub>💡 <i>Open to full-time roles, collaborations, and open-source contributions</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=140&section=footer&text=Let%27s%20Build%20Something%20Great%20Together&fontSize=24&fontColor=38BDF8&fontAlignY=70&desc=🚀%20Innovation%20%7C%20🛠️%20Engineering%20%7C%20📈%20Impact&descSize=16&descAlignY=85&descColor=06B6D4"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:1a3a4a,70:203a43,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=38BDF8&fontAlignY=60"/>
+<p>
+  <sub>💡 Open to <b>full-time roles</b>, <b>collaborations</b>, and <b>open-source contributions</b></sub>
+</p>
+
+<p>
+  <sub>⭐ If you found this useful, feel free to give it a star!</sub>
+</p>
 
 </div>
