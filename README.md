@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=🖥️+HPC+Systems+Engineer+%40+IISc+SERC;⚙️+Automating+Infrastructure+at+Scale;☁️+Cloud+Native+%26+DevOps+Enthusiast;🚀+Building+High-Performance+Systems;🔐+SRE+%26+Platform+Engineering+Focus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=🖥️+HPC+Systems+Engineer+%40+IISc;⚙️+Automating+Infrastructure+at+Scale;☁️+Cloud+Native+%26+DevOps+Enthusiast;🚀+Building+High-Performance+Systems;🔐+SRE+%26+Platform+Engineering+Focus" alt="Typing SVG" />
 </p>
 
 <br/>
